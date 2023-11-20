@@ -22,6 +22,11 @@ Vehicle_List =  {
    '009': {'type': "ThreeWheel", 'Max_passengers': 3, },
    '010': {'type': "ThreeWheel", 'Max_passengers': 3, },
 
+
+
+
+
+    
    '011':{'type':"Truck",'name':'Freightliner','size': '7ft',},
    '012':{'type':"Truck",'name':'FUSO','size': '12ft',},
 
